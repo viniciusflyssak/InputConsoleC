@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ComponenteEntradaDadosApp/1.0.0": {
+        "runtime": {
+          "ComponenteEntradaDadosApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ComponenteEntradaDadosApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

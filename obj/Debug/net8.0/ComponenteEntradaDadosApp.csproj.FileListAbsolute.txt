@@ -1,0 +1,14 @@
+C:\Users\vinic\Downloads\Atividade 1\ComponenteEntradaDadosApp\bin\Debug\net8.0\ComponenteEntradaDadosApp.exe
+C:\Users\vinic\Downloads\Atividade 1\ComponenteEntradaDadosApp\bin\Debug\net8.0\ComponenteEntradaDadosApp.deps.json
+C:\Users\vinic\Downloads\Atividade 1\ComponenteEntradaDadosApp\bin\Debug\net8.0\ComponenteEntradaDadosApp.runtimeconfig.json
+C:\Users\vinic\Downloads\Atividade 1\ComponenteEntradaDadosApp\bin\Debug\net8.0\ComponenteEntradaDadosApp.dll
+C:\Users\vinic\Downloads\Atividade 1\ComponenteEntradaDadosApp\bin\Debug\net8.0\ComponenteEntradaDadosApp.pdb
+C:\Users\vinic\Downloads\Atividade 1\ComponenteEntradaDadosApp\obj\Debug\net8.0\ComponenteEntradaDadosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Downloads\Atividade 1\ComponenteEntradaDadosApp\obj\Debug\net8.0\ComponenteEntradaDadosApp.AssemblyInfoInputs.cache
+C:\Users\vinic\Downloads\Atividade 1\ComponenteEntradaDadosApp\obj\Debug\net8.0\ComponenteEntradaDadosApp.AssemblyInfo.cs
+C:\Users\vinic\Downloads\Atividade 1\ComponenteEntradaDadosApp\obj\Debug\net8.0\ComponenteEntradaDadosApp.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Downloads\Atividade 1\ComponenteEntradaDadosApp\obj\Debug\net8.0\ComponenteEntradaDadosApp.dll
+C:\Users\vinic\Downloads\Atividade 1\ComponenteEntradaDadosApp\obj\Debug\net8.0\refint\ComponenteEntradaDadosApp.dll
+C:\Users\vinic\Downloads\Atividade 1\ComponenteEntradaDadosApp\obj\Debug\net8.0\ComponenteEntradaDadosApp.pdb
+C:\Users\vinic\Downloads\Atividade 1\ComponenteEntradaDadosApp\obj\Debug\net8.0\ComponenteEntradaDadosApp.genruntimeconfig.cache
+C:\Users\vinic\Downloads\Atividade 1\ComponenteEntradaDadosApp\obj\Debug\net8.0\ref\ComponenteEntradaDadosApp.dll
